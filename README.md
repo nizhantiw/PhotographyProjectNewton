@@ -3,7 +3,7 @@
 ![web1](https://user-images.githubusercontent.com/15029148/194410332-fd01650d-6a14-4a91-a0b3-fcd594385dae.png)
 
 ## Main Page with tumbnail and slide shows.
-![web2](https://user-images.githubusercontent.com/15029148/194411403-1fa90580-1d45-4ac3-a65f-9ac57119ba0c.png)
+![web2](https://user-images.githubusercontent.com/15029148/194411937-b4732514-8d31-49d9-9070-b59eb1136d96.png)
 
 
 
